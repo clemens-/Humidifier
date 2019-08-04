@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HumidifierV1.1.CMPcbDoc   04.08.2019  14:33:55
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : HumidifierV1.1-Plated.TXT
+ASCII Non-Plated RoundHoles File : HumidifierV1.1-NonPlated.TXT
+EIA File   : HumidifierV1.1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          10               51.02 mm (2.01 Inch)
+T2        0.8mm (31.496mil)        Round          2                5.00 mm (0.20 Inch)
+T3        1mm (39.37mil)           Round          10               30.11 mm (1.19 Inch)
+T4        3.2mm (125.984mil)       Round          2         NPTH   29.15 mm (1.15 Inch)
+---------------------------------------------------------------------------
+Totals                                            24               115.29 mm (4.54 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
