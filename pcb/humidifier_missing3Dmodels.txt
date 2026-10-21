@@ -1,0 +1,13 @@
+### Missing 3D models - created on 2026-07-06 20:47
+### Printed by checking_3D_models plugin
+Board file: D:\humidifier\pcb\humidifier.kicad_pcb
+3D missing models written to:
+D:\humidifier\pcb\humidifier_missing3Dmodels.txt
+-------
+('T1', 'kicad-embed://Autotransformer v0.step')
+('U2', 'C:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\Sensor_Humidity.3dshapes\\Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad.step')
+('U1', 'kicad-embed://Waveshare-ESP32-C6-Zero.step')
+('J1', 'C:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_Hirose.3dshapes\\Hirose_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal.step')
+-------
+NUM of 3D missing models:4
+checked extensions ['.stp', '.step', '.stpZ']

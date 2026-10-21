@@ -1,0 +1,204 @@
+(footprint "FFC_1x05_P2.00mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Hirose  series connector, DF3EA-05P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317)")
+	(tags "connector Hirose  horizontal")
+	(property "Reference" "REF**"
+		(at 0 -5.6 0)
+		(layer "F.SilkS")
+		(uuid "c0bcc657-c469-48ba-8d24-b6ea41b6702c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FFC_1x05_P2.00mm_Horizontal"
+		(at 0 6.05 0)
+		(layer "F.Fab")
+		(uuid "d9e7e75d-e2ff-4720-9084-040325d3c3c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf34177c-5cf5-445f-94be-02a24decf307")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8415ab1a-2af6-4474-a2de-48b0722bb991")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b42bf6af-7e0f-4677-af25-581229215c29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5 -5.25)
+		(end -4 -5.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b59feaf3-1974-45ff-9a93-911e1f297aad")
+	)
+	(fp_line
+		(start -5 -1.16)
+		(end -5 -5.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e22c8e1c-4928-4e3d-b6a6-0fb3c98d93aa")
+	)
+	(fp_line
+		(start 4 -5.25)
+		(end 5 -5.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c87ef985-7adf-4083-b2b5-5c90bfb9dfb5")
+	)
+	(fp_line
+		(start 5 -1.25)
+		(end 5 -5.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35d944d6-c09f-4cf8-88b9-ef459f5e06f1")
+	)
+	(fp_line
+		(start -5.25 -5.5)
+		(end 5.25 -5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ebef3732-b0f1-46bf-8265-8837a55ff35c")
+	)
+	(fp_line
+		(start -5.25 1)
+		(end -5.25 -5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "77bd2339-dc73-4156-877b-7a44c83f05e1")
+	)
+	(fp_line
+		(start -5.25 1)
+		(end 5.25 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "471c1a14-6990-4ab5-80f3-a1b12460b8e5")
+	)
+	(fp_line
+		(start 5.25 -5.5)
+		(end 5.25 1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "135b1a81-1365-49e0-af7f-932d9346b394")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.9 0)
+		(layer "F.Fab")
+		(uuid "428d7cb7-5dff-496f-ab1c-0c1bf7214ae8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -4 -2.85)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.208333)
+		(uuid "1ebd7282-e1f5-4f30-8dda-7631b26f5064")
+	)
+	(pad "2" smd roundrect
+		(at -2 -2.85)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.208333)
+		(uuid "cfe1f946-5093-4677-b56e-d0bc75b245cb")
+	)
+	(pad "3" smd roundrect
+		(at 0 -2.85)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.208333)
+		(uuid "ab299f57-89e2-481b-89e9-f4821318773a")
+	)
+	(pad "4" smd roundrect
+		(at 2 -2.85)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.208333)
+		(uuid "8491c38c-7f24-4152-b920-c6dd7d3a0288")
+	)
+	(pad "5" smd roundrect
+		(at 4 -2.85)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.208333)
+		(uuid "8fd2a1d2-fb62-4081-bcbd-e28ea711ed12")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
